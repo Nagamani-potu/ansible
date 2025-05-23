@@ -1,6 +1,6 @@
 - name: Variables from play level
   hosts: localhost
-  vars-_files:
+  vars_files:
   - variables.yaml
   tasks:
   - name: check variables
