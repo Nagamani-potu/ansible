@@ -7,11 +7,11 @@
    - Linux
    - Docker
    - Shell
-    Experience: # Experience is map type. It contains key value pairs
+   Experience: # Experience is map type. It contains key value pairs
      DevOps: 7
      AWS: 9
      Docker: 8
-    Trainer: true #boolean
+   Trainer: true #boolean
   tasks:
   - name: print key value pair
     ansible.builtin.debug:
