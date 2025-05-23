@@ -1,2 +1,10 @@
 [web]
 3.88.177.1
+
+[localhost]
+localhost
+
+[localhost:vars]
+Course: "DevOps from inventory"
+    Trainer: "Mani"
+    Duration: "120HRS"
