@@ -8,6 +8,8 @@ localhost
 Course="DevOps From inventory"
 Trainer="Mani"
 Duration="110HRS"
+PERSON="Mani from inventory"
+WISHES="Morning from inventory"
 
 [local]
 localhost ansible_connection=ssh ansible_user=centos ansible_ssh_pass=DevOps321
